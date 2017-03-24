@@ -1,0 +1,8 @@
+c:\Users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\FluentScheduler\bin\Debug\FluentScheduler.exe.config
+c:\Users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\FluentScheduler\bin\Debug\FluentScheduler.exe
+c:\Users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\FluentScheduler\bin\Debug\FluentScheduler.pdb
+c:\Users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\FluentScheduler\bin\Debug\FluentScheduler.dll
+c:\Users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\FluentScheduler\bin\Debug\FluentScheduler.xml
+c:\Users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\FluentScheduler\obj\Debug\FluentScheduler.csprojResolveAssemblyReference.cache
+c:\Users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\FluentScheduler\obj\Debug\FluentScheduler.exe
+c:\Users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\FluentScheduler\obj\Debug\FluentScheduler.pdb

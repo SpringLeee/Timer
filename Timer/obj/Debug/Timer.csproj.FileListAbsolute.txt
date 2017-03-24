@@ -1,0 +1,6 @@
+c:\users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\Timer\bin\Debug\Timer.exe.config
+c:\users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\Timer\bin\Debug\Timer.exe
+c:\users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\Timer\bin\Debug\Timer.pdb
+c:\users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+c:\users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\Timer\obj\Debug\Timer.exe
+c:\users\administrator.sc-201703152226\documents\visual studio 2017\Projects\Timer\Timer\obj\Debug\Timer.pdb
